@@ -1,0 +1,9 @@
+http://localhost/?code=4/0AWgavdeMcVmVdU_33gh5EjtWWC5qmPt437ZySFDrDE2IXCvEAPJp8RcreiWFZE4JRxp8CA&scope=https://mail.google.com/
+
+{
+    "access_token": "ya29.a0AX9GBdWw-3aHo1pVDEo4i7zpxHpRwaoStzCf-DlYPHvdDWhIGRReHaxiaxoxchsys2r1PW4IkSxDD9y98S0DYnAWdIzvCs7M9dqaoZsea-ackCEQK78coDm4AXBiRwiZH39j786vNg6JcHe6UfgnhRKMNjjLaCgYKAU4SARESFQHUCsbCGFiHg9R5hhsCcgSt10FBsA0163",
+    "expires_in": 3599,
+    "refresh_token": "1//0gKFQwEduO_i4CgYIARAAGBASNwF-L9IrfofDQgHCKG-ZdELS1g6EJ-qwh41oKf0VlBUIshUWdCzUZKoKulcaskoeATGSgtQKrzo",
+    "scope": "https://mail.google.com/",
+    "token_type": "Bearer"
+}
